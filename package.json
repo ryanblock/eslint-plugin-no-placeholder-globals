@@ -1,0 +1,15 @@
+{
+  "name": "eslint-plugin-no-undefined-global-vars",
+  "version": "0.0.0",
+  "author": "Ryan Block <hello@ryanblock.com>",
+  "license": "Apache-2.0",
+  "main": "lib/rules/no-undefined-global-vars",
+  "scripts": {
+    "test": "eslint . && mocha tests --recursive"
+  },
+  "dependencies": {},
+  "devDependencies": {
+    "eslint": "^6.4.0",
+    "mocha": "^6.2.0"
+  }
+}
