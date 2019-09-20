@@ -1,6 +1,6 @@
 {
   "name": "eslint-plugin-no-placeholder-globals",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "author": "Ryan Block <hello@ryanblock.com>",
   "license": "Apache-2.0",
   "main": "lib/rules",
