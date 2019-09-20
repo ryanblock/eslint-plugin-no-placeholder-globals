@@ -1,10 +1,13 @@
-# No undefined global variables (eslint-plugin-no-undefined-global-vars)
+# No global placeholders (eslint-plugin-no-global-placeholders)
 
-Please describe the origin of the rule here.
+Coming soon!
+<!-- Please describe the origin of the rule here. -->
 
 
 ## Rule Details
 
+Coming soon!
+<!--
 This rule aims to...
 
 Examples of **incorrect** code for this rule:
@@ -22,15 +25,23 @@ Examples of **correct** code for this rule:
 // fill me in
 
 ```
+-->
 
+<!--
 ### Options
 
 If there are any options, describe them here. Otherwise, delete this section.
+-->
+
 
 ## When Not To Use It
 
-Give a short description of when it would be appropriate to turn off this rule.
+Coming soon!
+<!-- Give a short description of when it would be appropriate to turn off this rule. -->
 
+
+<!--
 ## Further Reading
 
 If there are other links that describe the issue this rule addresses, please include them here in a bulleted list.
+-->

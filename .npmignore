@@ -1,0 +1,5 @@
+.DS_Store
+.eslintrc.js
+docs
+node_modules
+test

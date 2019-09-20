@@ -5,7 +5,7 @@
   "license": "Apache-2.0",
   "main": "lib/rules",
   "scripts": {
-    "test": "eslint . && mocha tests --recursive"
+    "test": "eslint . && mocha test --recursive"
   },
   "dependencies": {},
   "devDependencies": {
