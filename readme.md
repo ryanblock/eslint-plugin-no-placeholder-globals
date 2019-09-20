@@ -16,13 +16,13 @@ const doThis = []   // 'no-placeholder-globals/no-global-array-literals'
 
 ### Installing
 
-If you run ESLint globally:
-`npm i eslint-plugin-no-placeholder-globals -g`
+Using ESLint:
+- globally: `npm i eslint-plugin-no-placeholder-globals -g`
+- as a dep: `npm i eslint-plugin-no-placeholder-globals --save-dev`
 
-If you run ESLint as a devdep:
-`npm i eslint-plugin-no-placeholder-globals --save-dev`
+Then add the plugin and its rules to your project's ESLint config.
 
-Then add the plugin and rules to your ESLint config; `.eslintrc.js` example:
+An example for `.eslintrc.js`:
 
 ```js
 module.exports = {
